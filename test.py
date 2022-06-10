@@ -1,1 +1,1 @@
-hhjhjkhj
+print("hello")
