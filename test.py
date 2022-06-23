@@ -11,4 +11,5 @@ print("How are you?")
 print("Banana")
 print("Apple")
 print("Cat")
+print("Dog")
 
