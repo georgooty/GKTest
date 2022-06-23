@@ -14,4 +14,6 @@ print("Cat")
 print("Dog")
 print("Elephant")
 print("Fan")
+print("2")
 print("1")
+
