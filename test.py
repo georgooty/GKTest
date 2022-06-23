@@ -7,3 +7,5 @@ print("Are you ok")
 print("I'm not ok")
 print("Nothing")
 print("Where are you")
+print("How are you?")
+
